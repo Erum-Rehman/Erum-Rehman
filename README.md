@@ -1,8 +1,8 @@
-![MasterHead](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
+![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Erum Rehman React | React Native | Redux | Next.js Expert</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan. Ready to turn your web application vision into reality? Look no further! I'm a skilled MERN Stack Developer with over 2 years of experience and a strong track record of delivering successful projects. I've led and developed numerous applications from concept to launch, creating intuitive, high-performing web solutions that engage users and drive results.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 - 🔭 I’m currently working on [Hand Bags Website](https://bagx-b3d08.web.app/)
 
